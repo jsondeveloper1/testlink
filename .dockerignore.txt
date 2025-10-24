@@ -1,0 +1,4 @@
+logs/
+upload_area/
+.git
+.gitignore
